@@ -1,5 +1,5 @@
 # Challenge Frequência Medidas
-Repositório com o desafio para o bootcamp Data Analytics da Womakers Code.
+Repositório com o desafio para o Bootcamp Data Analytics da Womakers Code.
 
 Esse desafio tem como objetivo responder algumas perguntas através da análise de dados, aprofundando o conhecimento em frequência e medidas, partes da estatística ensinadas no módulo 07.
 
