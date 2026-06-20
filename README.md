@@ -23,6 +23,7 @@ Este conjunto de dados consiste na lista de filmes e suas respectivas e suas inf
 A base de dados em .CSV foi retirada do Kaggle [netfix-show-and-movies-exploratory-analysis](https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis)
 
 ## Integrantes:
+![Squad Dorothy](capa-squad.png)
 
 ## Tecnologias usadas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
