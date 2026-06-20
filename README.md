@@ -22,6 +22,31 @@ Este conjunto de dados consiste na lista de filmes e suas respectivas e suas inf
 ## Base de dados:
 A base de dados em .CSV foi retirada do Kaggle [netfix-show-and-movies-exploratory-analysis](https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis)
 
+## Questões
+
+1. Exploração inicial:  
+* Quantas linhas e colunas tem o dataset?
+* Quais são os tipos das variáveis e se há valores ausentes?
+
+2. Análises de frequência:
+* Qual a proporção de filmes vs. séries no catálogo?
+* Qual o gênero mais frequente?
+
+3. Análises estatísticas:
+* Qual a média, mediana e moda do tempo de duração dos
+filmes?
+* Qual o filme mais curto e mais longo?
+
+4. Visualização de dados:
+* Criar um gráfico de barras para mostrar a quantidade de títulos
+por gênero.
+* Criar um histograma para analisar a distribuição da duração dos
+filmes.
+
+📊 Atividade extra:
+* Quais são os 5 países que possuem mais produções no catálogo?
+* Quantos títulos foram lançados por ano (olhe o ano original de lançamento do filme)? Faça o gráfico com o TOP 5 anos com mais lançamentos.
+
 ## Integrantes:
 ![Squad Dorothy](capa-squad.png)
 
